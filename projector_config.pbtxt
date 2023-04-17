@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "location:24660"
+  metadata_path: "24660/location/metadata.tsv"
+  tensor_path: "24660/location/tensors.tsv"
+}
